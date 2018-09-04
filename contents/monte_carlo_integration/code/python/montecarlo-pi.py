@@ -20,4 +20,4 @@ def monte_carlo(n):
     print("Percent error is:", pi_error, "%")
 
 
-monte_carlo(10000)
+monte_carlo(10000000)
